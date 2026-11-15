@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+
+# Hướng dẫn/cấu hình agent chỉ dùng cục bộ, không đưa lên repository.
+.agents/
+agents/
+AGENTS.md
